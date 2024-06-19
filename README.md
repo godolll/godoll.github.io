@@ -8,4 +8,4 @@
 페이지 "설명" - 간단한 홈페이지 설명
 페이지 "정보" - Name, Email Address, Phone Number, Message 작성란
 
-github 주소: godoll.github.io
+github 주소: https://github.com/godolll/godoll.github.io
